@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue';
+import effectFn from './demo/effect-fn.vue';
 </script>
 
 <template>
-    <HelloWorld msg="" />
+    <effectFn></effectFn>
 </template>
 
 <style scoped>
